@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Maham-Liaqat.io/textutils/static/css/main.31d6cfe0.css",
-    "main.js": "/Maham-Liaqat.io/textutils/static/js/main.1414311c.js",
-    "static/js/453.02b6ed6f.chunk.js": "/Maham-Liaqat.io/textutils/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/Maham-Liaqat.io/textutils/index.html",
-    "main.1414311c.js.map": "/Maham-Liaqat.io/textutils/static/js/main.1414311c.js.map",
-    "453.02b6ed6f.chunk.js.map": "/Maham-Liaqat.io/textutils/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/Maham-Liaqat/textutils/static/css/main.31d6cfe0.css",
+    "main.js": "/Maham-Liaqat/textutils/static/js/main.525dcf20.js",
+    "static/js/453.02b6ed6f.chunk.js": "/Maham-Liaqat/textutils/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/Maham-Liaqat/textutils/index.html",
+    "main.525dcf20.js.map": "/Maham-Liaqat/textutils/static/js/main.525dcf20.js.map",
+    "453.02b6ed6f.chunk.js.map": "/Maham-Liaqat/textutils/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.1414311c.js"
+    "static/js/main.525dcf20.js"
   ]
 }
